@@ -29,9 +29,9 @@ public class Nodo<T>{
     }
     public void setAnterior(Nodo<T> anterior) {
         this.anterior = anterior;
-    }
+    
     
     
 
 
-}
+}}
