@@ -5,7 +5,6 @@ import listaDoble.PosicionIlegalException;
 public class Menu{
     static Scanner scanner = new  Scanner(System.in);
 	
-		
 	public void lectura() throws PosicionIlegalException {
 			
 		imprimirMenu();	
