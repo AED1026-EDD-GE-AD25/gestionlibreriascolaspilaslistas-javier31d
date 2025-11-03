@@ -1,5 +1,6 @@
-package listaDoble;
 
+package listaDoble;
+//jhjuuj
 public class ListaDoble<T>{
     //atributos
     private Nodo<T> cabeza;
